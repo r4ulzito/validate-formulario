@@ -1,6 +1,6 @@
 <h1 align="center">📋 FORMULÁRIO DE CADASTRO</h1>
 
-<img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
+<img src="https://user-images.githubusercontent.com/97764322/180572743-aca1f35f-e4b6-4267-899d-e54eef1e2242.gif" alt="preview gif">
 
 > 🔎 Um formulário de cadastro com validação de e-mail, senha e campos vazios
 
