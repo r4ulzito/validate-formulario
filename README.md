@@ -1,6 +1,8 @@
 <h1 align="center">📋 FORMULÁRIO DE CADASTRO</h1>
 
-<img src="https://user-images.githubusercontent.com/97764322/180572743-aca1f35f-e4b6-4267-899d-e54eef1e2242.gif" alt="preview gif">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/97764322/180572743-aca1f35f-e4b6-4267-899d-e54eef1e2242.gif" alt="preview gif">
+</div>
 
 > 🔎 Um formulário de cadastro com validação de e-mail, senha e campos vazios
 
